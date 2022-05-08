@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+}
+
+body{
+    color: #58828f;
+    font-size: 1.2em;
+    background-color: #a7c2d3;
+    
+}
+body .card{
+    background-color: #8196ab ;
+}
+
+.form-control{
+    background-color: #e6eae9;
+
+}
+body .table{
+    background-color: #e6eae9;
+}
+
+
+th,td{
+    text-align: center;
+    vertical-align: middle;
+}
+
+.table-responsive{
+    margin: 0;
+}
